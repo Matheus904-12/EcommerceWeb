@@ -19,8 +19,8 @@ error_log("===== Iniciando processo de login Google =====");
 try {
     // Configurações do Google OAuth
     $provider = new Google([
-        'clientId'      => '818588658305-7hfcrmuocusbi88bpq0insq09srdv8jd.apps.googleusercontent.com',
-        'clientSecret'  => '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',
+        'clientId'      => '#',
+        'clientSecret'  => '#',
         'redirectUri'   => 'https://cristaisgoldlar.com.br/Site/google_login.php' // Ajuste para seu URI
     ]);
 
