@@ -1,0 +1,555 @@
+[
+    {
+        "timestamp": "2025-07-31 00:19:00",
+        "pedido": "131",
+        "payload": {
+            "numero": "131",
+            "cliente": {
+                "cpfCnpj": ""
+            },
+            "itens": [
+                {
+                    "codigo": 61,
+                    "descricao": "ARRANJO G",
+                    "quantidade": 1,
+                    "valor": "11.00"
+                }
+            ],
+            "valor": null
+        }
+    },
+    {
+        "timestamp": "2025-07-31 00:22:02",
+        "pedido": "131",
+        "payload": {
+            "numero": "131",
+            "cliente": {
+                "cpfCnpj": ""
+            },
+            "itens": [
+                {
+                    "codigo": 61,
+                    "descricao": "ARRANJO G",
+                    "quantidade": 1,
+                    "valor": "11.00"
+                }
+            ],
+            "valor": 0
+        }
+    },
+    {
+        "timestamp": "2025-07-31 00:31:35",
+        "pedido": "131",
+        "payload": {
+            "numero": "131",
+            "cliente": {
+                "cpfCnpj": ""
+            },
+            "itens": [
+                {
+                    "codigo": 61,
+                    "descricao": "ARRANJO G",
+                    "quantidade": 1,
+                    "valor": "11.00"
+                }
+            ],
+            "valor": 0
+        }
+    },
+    {
+        "timestamp": "2025-07-31 00:31:42",
+        "pedido": "131",
+        "payload": {
+            "numero": "131",
+            "cliente": {
+                "cpfCnpj": ""
+            },
+            "itens": [
+                {
+                    "codigo": 61,
+                    "descricao": "ARRANJO G",
+                    "quantidade": 1,
+                    "valor": "11.00"
+                }
+            ],
+            "valor": 0
+        }
+    },
+    {
+        "timestamp": "2025-07-31 00:31:53",
+        "pedido": "131",
+        "payload": {
+            "numero": "131",
+            "cliente": {
+                "cpfCnpj": ""
+            },
+            "itens": [
+                {
+                    "codigo": 61,
+                    "descricao": "ARRANJO G",
+                    "quantidade": 1,
+                    "valor": "11.00"
+                }
+            ],
+            "valor": 0
+        }
+    },
+    {
+        "timestamp": "2025-07-31 00:56:19",
+        "pedido": "131",
+        "payload": {
+            "numero": "131",
+            "cliente": {
+                "cpfCnpj": ""
+            },
+            "itens": [
+                {
+                    "codigo": 61,
+                    "descricao": "ARRANJO G",
+                    "quantidade": 1,
+                    "valor": "11.00"
+                }
+            ],
+            "valor": 0
+        }
+    },
+    {
+        "timestamp": "2025-07-31 00:56:25",
+        "pedido": "131",
+        "payload": {
+            "numero": "131",
+            "cliente": {
+                "cpfCnpj": ""
+            },
+            "itens": [
+                {
+                    "codigo": 61,
+                    "descricao": "ARRANJO G",
+                    "quantidade": 1,
+                    "valor": "11.00"
+                }
+            ],
+            "valor": 0
+        }
+    },
+    {
+        "timestamp": "2025-07-31 01:02:41",
+        "pedido": "131",
+        "payload": {
+            "numero": "131",
+            "cliente": {
+                "cpfCnpj": ""
+            },
+            "itens": [
+                {
+                    "codigo": 61,
+                    "descricao": "ARRANJO G",
+                    "quantidade": 1,
+                    "valor": "11.00"
+                }
+            ],
+            "valor": 0
+        }
+    },
+    {
+        "timestamp": "2025-07-31 01:07:04",
+        "pedido": "131",
+        "payload": {
+            "numero": "131",
+            "cliente": {
+                "cpfCnpj": ""
+            },
+            "itens": [
+                {
+                    "codigo": 61,
+                    "descricao": "ARRANJO G",
+                    "quantidade": 1,
+                    "valor": "11.00"
+                }
+            ],
+            "valor": 0
+        }
+    },
+    {
+        "timestamp": "2025-07-31 01:27:40",
+        "pedido": "131",
+        "payload": {
+            "numero": "131",
+            "cliente": {
+                "cpfCnpj": "50309276896",
+                "nome": "Matheus Lucindo",
+                "email": "matheuslucindo904@gmail.com",
+                "telefone": "11971666817"
+            },
+            "itens": [
+                {
+                    "codigo": 61,
+                    "descricao": "ARRANJO G",
+                    "quantidade": 1,
+                    "valor": "11.00"
+                }
+            ],
+            "valor": 11
+        }
+    },
+    {
+        "timestamp": "2025-07-31 01:33:08",
+        "pedido": "131",
+        "payload": {
+            "numero": "131",
+            "tipo": "E",
+            "naturezaOperacao": "Venda de mercadoria",
+            "cliente": {
+                "cpfCnpj": "50309276896",
+                "nome": "Matheus Lucindo",
+                "email": "matheuslucindo904@gmail.com",
+                "telefone": "11971666817"
+            },
+            "itens": [
+                {
+                    "codigo": 61,
+                    "descricao": "ARRANJO G",
+                    "quantidade": 1,
+                    "valor": "11.00"
+                }
+            ],
+            "valor": 11
+        }
+    },
+    {
+        "timestamp": "2025-07-31 01:33:16",
+        "pedido": "131",
+        "payload": {
+            "numero": "131",
+            "tipo": "E",
+            "naturezaOperacao": "Venda de mercadoria",
+            "cliente": {
+                "cpfCnpj": "50309276896",
+                "nome": "Matheus Lucindo",
+                "email": "matheuslucindo904@gmail.com",
+                "telefone": "11971666817"
+            },
+            "itens": [
+                {
+                    "codigo": 61,
+                    "descricao": "ARRANJO G",
+                    "quantidade": 1,
+                    "valor": "11.00"
+                }
+            ],
+            "valor": 11
+        }
+    },
+    {
+        "timestamp": "2025-07-31 01:35:39",
+        "pedido": "131",
+        "payload": {
+            "numero": "131",
+            "tipo": "E",
+            "naturezaOperacao": "Venda de mercadoria",
+            "cliente": {
+                "cpfCnpj": "50309276896",
+                "nome": "Matheus Lucindo",
+                "email": "matheuslucindo904@gmail.com",
+                "telefone": "11971666817"
+            },
+            "itens": [
+                {
+                    "codigo": 61,
+                    "descricao": "ARRANJO G",
+                    "quantidade": 1,
+                    "valor": "11.00"
+                }
+            ],
+            "valor": 11
+        }
+    },
+    {
+        "timestamp": "2025-07-31 01:39:17",
+        "pedido": "131",
+        "payload": {
+            "numero": "131",
+            "tipo": "E",
+            "naturezaOperacao": "Venda de mercadoria",
+            "cliente": {
+                "cpfCnpj": "50309276896",
+                "nome": "Matheus Lucindo",
+                "email": "matheuslucindo904@gmail.com",
+                "telefone": "11971666817"
+            },
+            "itens": [
+                {
+                    "codigo": 61,
+                    "descricao": "ARRANJO G",
+                    "quantidade": 1,
+                    "valor": "11.00"
+                }
+            ],
+            "valor": 11
+        }
+    },
+    {
+        "timestamp": "2025-07-31 01:41:39",
+        "pedido": "131",
+        "payload": {
+            "numero": "131",
+            "tipo": "E",
+            "naturezaOperacao": "Venda de mercadoria",
+            "cliente": {
+                "cpfCnpj": "50309276896",
+                "nome": "Matheus Lucindo",
+                "email": "matheuslucindo904@gmail.com",
+                "telefone": "11971666817"
+            },
+            "itens": [
+                {
+                    "codigo": 61,
+                    "descricao": "ARRANJO G",
+                    "quantidade": 1,
+                    "valor": "11.00"
+                }
+            ],
+            "valor": 11
+        }
+    },
+    {
+        "timestamp": "2025-07-31 01:45:47",
+        "pedido": "131",
+        "payload": {
+            "numero": "131",
+            "tipo": "E",
+            "naturezaOperacao": "Venda de mercadoria",
+            "cliente": {
+                "cpfCnpj": "50309276896",
+                "nome": "Matheus Lucindo",
+                "email": "matheuslucindo904@gmail.com",
+                "telefone": "11971666817"
+            },
+            "itens": [
+                {
+                    "codigo": 61,
+                    "descricao": "ARRANJO G",
+                    "quantidade": 1,
+                    "valor": "11.00"
+                }
+            ],
+            "valor": 11
+        }
+    },
+    {
+        "timestamp": "2025-07-31 01:50:13",
+        "pedido": "131",
+        "payload": {
+            "numero": "131",
+            "tipo": "E",
+            "naturezaOperacao": "Venda de mercadoria",
+            "cliente": {
+                "cpfCnpj": "50309276896",
+                "nome": "Matheus Lucindo",
+                "email": "matheuslucindo904@gmail.com",
+                "telefone": "11971666817"
+            },
+            "itens": [
+                {
+                    "codigo": 61,
+                    "descricao": "ARRANJO G",
+                    "quantidade": 1,
+                    "valor": "11.00"
+                }
+            ],
+            "valor": 11
+        }
+    },
+    {
+        "timestamp": "2025-07-31 10:14:10",
+        "pedido": "131",
+        "payload": {
+            "numero": "131",
+            "tipo": "E",
+            "naturezaOperacao": "Venda de mercadoria",
+            "cliente": {
+                "cpfCnpj": "50309276896",
+                "nome": "Matheus Lucindo",
+                "email": "matheuslucindo904@gmail.com",
+                "telefone": "11971666817"
+            },
+            "itens": [
+                {
+                    "codigo": 61,
+                    "descricao": "ARRANJO G",
+                    "quantidade": 1,
+                    "valor": "11.00"
+                }
+            ],
+            "valor": 11
+        }
+    },
+    {
+        "timestamp": "2025-07-31 10:14:56",
+        "pedido": "131",
+        "payload": {
+            "numero": "131",
+            "tipo": "E",
+            "naturezaOperacao": "Venda de mercadoria",
+            "cliente": {
+                "cpfCnpj": "50309276896",
+                "nome": "Matheus Lucindo",
+                "email": "matheuslucindo904@gmail.com",
+                "telefone": "11971666817"
+            },
+            "itens": [
+                {
+                    "codigo": 61,
+                    "descricao": "ARRANJO G",
+                    "quantidade": 1,
+                    "valor": "11.00"
+                }
+            ],
+            "valor": 11
+        }
+    },
+    {
+        "timestamp": "2025-07-31 10:20:21",
+        "pedido": "128",
+        "payload": {
+            "numero": "128",
+            "tipo": "E",
+            "naturezaOperacao": "Venda de mercadoria",
+            "cliente": {
+                "cpfCnpj": "50309276896",
+                "nome": "Matheus Lucindo",
+                "email": "matheuslucindo904@gmail.com",
+                "telefone": "11971666817"
+            },
+            "itens": [
+                {
+                    "codigo": 54,
+                    "descricao": "ARRANJO M",
+                    "quantidade": 1,
+                    "valor": "400.00"
+                }
+            ],
+            "valor": 400
+        }
+    },
+    {
+        "timestamp": "2025-07-31 10:23:48",
+        "pedido": "128",
+        "payload": {
+            "numero": "128",
+            "tipo": "P",
+            "naturezaOperacao": "Venda de mercadoria",
+            "cliente": {
+                "cpfCnpj": "50309276896",
+                "nome": "Matheus Lucindo",
+                "email": "matheuslucindo904@gmail.com",
+                "telefone": "11971666817"
+            },
+            "itens": [
+                {
+                    "codigo": 54,
+                    "descricao": "ARRANJO M",
+                    "quantidade": 1,
+                    "valor": "400.00"
+                }
+            ],
+            "valor": 400
+        }
+    },
+    {
+        "timestamp": "2025-07-31 10:59:45",
+        "pedido": "128",
+        "payload": {
+            "numero": "128",
+            "tipo": "P",
+            "naturezaOperacao": "Venda de mercadoria",
+            "cliente": {
+                "cpfCnpj": "50309276896",
+                "nome": "Matheus Lucindo",
+                "email": "matheuslucindo904@gmail.com",
+                "telefone": "11971666817"
+            },
+            "itens": [
+                {
+                    "codigo": 54,
+                    "descricao": "ARRANJO M",
+                    "quantidade": 1,
+                    "valor": "400.00"
+                }
+            ],
+            "valor": 400
+        }
+    },
+    {
+        "timestamp": "2025-07-31 10:59:52",
+        "pedido": "128",
+        "payload": {
+            "numero": "128",
+            "tipo": "P",
+            "naturezaOperacao": "Venda de mercadoria",
+            "cliente": {
+                "cpfCnpj": "50309276896",
+                "nome": "Matheus Lucindo",
+                "email": "matheuslucindo904@gmail.com",
+                "telefone": "11971666817"
+            },
+            "itens": [
+                {
+                    "codigo": 54,
+                    "descricao": "ARRANJO M",
+                    "quantidade": 1,
+                    "valor": "400.00"
+                }
+            ],
+            "valor": 400
+        }
+    },
+    {
+        "timestamp": "2025-07-31 11:28:20",
+        "pedido": "128",
+        "payload": {
+            "numero": "128",
+            "tipo": "P",
+            "naturezaOperacao": "Venda de mercadoria",
+            "cliente": {
+                "cpfCnpj": "50309276896",
+                "nome": "Matheus Lucindo",
+                "email": "matheuslucindo904@gmail.com",
+                "telefone": "11971666817"
+            },
+            "itens": [
+                {
+                    "codigo": 54,
+                    "descricao": "ARRANJO M",
+                    "quantidade": 1,
+                    "valor": "400.00"
+                }
+            ],
+            "valor": 400
+        }
+    },
+    {
+        "timestamp": "2025-07-31 11:31:38",
+        "pedido": "128",
+        "payload": {
+            "numero": "128",
+            "tipo": "P",
+            "naturezaOperacao": "Venda de mercadoria",
+            "cliente": {
+                "cpfCnpj": "50309276896",
+                "nome": "Matheus Lucindo",
+                "email": "matheuslucindo904@gmail.com",
+                "telefone": "11971666817"
+            },
+            "itens": [
+                {
+                    "codigo": 54,
+                    "descricao": "ARRANJO M",
+                    "quantidade": 1,
+                    "valor": "400.00"
+                }
+            ],
+            "valor": 400
+        }
+    }
+]

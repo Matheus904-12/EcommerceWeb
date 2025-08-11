@@ -1,0 +1,209 @@
+@media screen and (min-width: 320px) and (max-width: 374px) {
+    .checkout-container {
+        max-width: 92%;
+        margin-top: 95px;
+        padding-bottom: 15px;
+        padding: 10px; /* Reduzido de 15px para evitar excesso de preenchimento */
+    }
+/* Ajustes no cabeçalho do checkout */
+    .checkout-header h1 {
+        font-size: 1.4rem; /* Reduzido de 2rem para caber melhor */
+    }
+
+    /* Ajustes na barra de progresso */
+    .progress-step {
+        width: 33.33%; /* Aumentado para melhor distribuição */
+    }
+
+    .step-circle {
+        width: 25px; /* Reduzido de 35px */
+        height: 25px;
+        font-size: 0.7rem; /* Ajustado para proporção */
+    }
+
+    .step-line {
+        top: 12px; /* Ajustado para alinhar com círculos menores */
+        width: calc(100% - 30px); /* Ajustado para círculos menores */
+    }
+
+    .step-label {
+        font-size: 0.65rem; /* Reduzido de 0.9rem para caber melhor */
+    }
+
+    /* Ajustes no conteúdo do checkout */
+    .checkout-content {
+        flex-direction: column; /* Garante layout em coluna */
+        gap: 15px; /* Reduzido de 20px */
+    }
+
+    .checkout-section {
+        min-width: 100%; /* Ocupa toda a largura disponível */
+    }
+
+    /* Ajustes no resumo do carrinho */
+    .cart-summary {
+        flex: 0 0 100%; /* Ocupa toda a largura */
+        padding: 15px; /* Reduzido de 20px */
+    }
+
+    .cart-item-image {
+        width: 50px; /* Reduzido de 60px */
+        height: 50px;
+    }
+
+    .cart-item-name {
+        font-size: 0.9rem; /* Ajustado para legibilidade */
+    }
+
+    .cart-item-price,
+    .cart-item-quantity {
+        font-size: 0.8rem; /* Reduzido para proporção */
+    }
+
+    /* Ajustes nos formulários */
+    .form-group {
+        margin-bottom: 15px; /* Reduzido de 20px */
+    }
+
+    .form-control {
+        padding: 8px; /* Reduzido de 12px 15px */
+        font-size: 0.9rem; /* Reduzido de 1rem */
+    }
+
+    .form-row {
+        flex-direction: column; /* Garante layout em coluna */
+        gap: 10px; /* Mantido para consistência */
+    }
+
+    /* Ajustes nos métodos de pagamento */
+    .payment-methods {
+        flex-direction: column; /* Garante layout em coluna */
+        gap: 10px; /* Reduzido de 15px */
+    }
+
+    .payment-method {
+        padding: 10px; /* Reduzido de 15px */
+    }
+
+    .payment-method i {
+        font-size: 1.2rem; /* Reduzido de 1.5rem */
+    }
+
+    /* Ajustes no botão de checkout */
+    .btn-checkout {
+        padding: 10px 15px; /* Reduzido de 15px 25px */
+        font-size: 0.9rem; /* Reduzido de 1rem */
+    }
+
+    /* Ajustes no PIX */
+    .pix-qrcode {
+        width: 120px; /* Reduzido de 200px para caber melhor */
+        height: 120px;
+    }
+
+    .pix-code {
+        font-size: 0.7rem; /* Reduzido para proporção */
+        padding: 8px; /* Reduzido de 10px */
+    }
+
+    /* Ajustes no modal */
+    .modal-content {
+        padding: 20px; /* Reduzido de 30px */
+        width: 95%; /* Aumentado para usar mais espaço */
+    }
+
+    .pix-instructions {
+        font-size: 0.8rem; /* Reduzido de 0.9rem */
+    }
+
+    .pix-confirm-btn {
+        padding: 10px 20px; /* Reduzido de 12px 25px */
+        font-size: 0.9rem; /* Reduzido de 1rem */
+    }
+
+    /* Ajustes nos cartões salvos */
+    .saved-card {
+        padding: 10px; /* Reduzido de 15px */
+        font-size: 0.9rem; /* Ajustado para legibilidade */
+    }
+
+    .card-icon {
+        font-size: 1rem; /* Reduzido de 1.2rem */
+    }
+
+    .card-last4,
+    .card-expiry {
+        font-size: 0.8rem; /* Reduzido para proporção */
+    }
+
+    /* Ajustes na confirmação de pedido */
+    .confirmation-icon {
+        font-size: 3rem; /* Reduzido de 5rem */
+    }
+
+    .order-details {
+        max-width: 100%; /* Ocupa toda a largura */
+    }
+
+    /* Ajustes no rastreamento */
+    .tracking-step {
+        width: 50%; /* Ajustado para duas colunas */
+        margin-bottom: 15px; /* Reduzido de 20px */
+    }
+
+    .step-dot {
+        width: 15px; /* Reduzido de 20px */
+        height: 15px;
+    }
+
+    .tracking-line {
+        display: none; /* Desativado para evitar sobreposição */
+    }
+}
+
+@media screen and (min-width: 375px) and (max-width: 424px) {
+    .checkout-container {
+        max-width: 92%;
+        margin-top: 90px;
+        padding-bottom: 15px;
+    }
+}
+
+@media screen and (min-width: 425px) and (max-width: 768px) {
+    .checkout-container {
+        max-width: 92%;
+        margin-top: 80px;
+        padding-bottom: 15px;
+    }
+}
+
+@media (max-width: 576px) {
+    .checkout-discount-banner {
+        font-size: 0.95em;
+        padding: 8px 0;
+        margin-bottom: 12px;
+    }
+    .shipping-cost[style*='color:green'] {
+        font-size: 1em;
+        padding: 2px 4px;
+    }
+    .frete-options-container label[style*='color:green'] {
+        font-size: 0.98em;
+        padding: 2px 4px;
+    }
+    .frete-cards {
+        gap: 8px;
+    }
+    .frete-card {
+        padding: 10px 8px;
+        font-size: 0.98em;
+    }
+    .pix-preview-row {
+        font-size: 0.98em;
+        padding: 6px 6px;
+    }
+    .parcelamento-resumo, #parcelamento-resumo {
+        font-size: 1em;
+        padding: 2px 4px;
+    }
+}

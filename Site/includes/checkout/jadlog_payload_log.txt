@@ -1,0 +1,8554 @@
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 1440
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "45810972",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 1440
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "45810972",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 1440
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "45810972",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 1440
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "45810972",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 1440
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 1440
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 90
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 411
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 400
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 400
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 400
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 400
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 800
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 800
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 800
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 800
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 411
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 411
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 400
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 400
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 400
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 400
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 400
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 400
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 400
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 400
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 400
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 400
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 400
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 400
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 400
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 400
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 400
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 400
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 400
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 400
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "20061012",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 400
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "45810972",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 400
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 400
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 400
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 400
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 400
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 800
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 800
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 800
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 800
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 800
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 800
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 800
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 800
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 800
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 800
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 800
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 800
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 800
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 800
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 800
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 800
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 800
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 800
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 800
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 800
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 800
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "45810972",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 800
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 800
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 800
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 800
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 800
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 800
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 800
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 800
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 800
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 800
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 800
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 800
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "45810972",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 800
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "45810972",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 800
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 800
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 800
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 800
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 800
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 800
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 800
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 800
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "45810972",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 800
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 800
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 800
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 800
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 800
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 800
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 800
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 800
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 800
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "45810972",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 800
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 800
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 800
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "45810972",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 800
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 800
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 800
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 800
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 0
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 0
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 0
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 400
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 400
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 400
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 400
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 400
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "45810972",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 400
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "45810972",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 400
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "45810972",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 400
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "45810972",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 400
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "45810972",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 400
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "45810972",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 400
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "45810972",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 400
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 400
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 400
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 400
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "45810972",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 400
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 400
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 400
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "45810972",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 400
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 400
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 400
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 400
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 400
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "45810972",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 400
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 400
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 400
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 400
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 400
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "45810972",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 400
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 400
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 400
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "45810972",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 400
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 400
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 400
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 400
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 400
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 400
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 400
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 400
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 400
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "45810972",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "45810972",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "45810972",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08503000",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 850
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08503000",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 850
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 0
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 0
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 33
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 22
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 22
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 22
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 22
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 22
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 22
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 22
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 22
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 22
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 22
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 22
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 22
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 22
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 22
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 22
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 22
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 22
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 22
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 22
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 22
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 22
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 22
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 22
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 22
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 22
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 22
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 22
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08501300",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 11
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08780911",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 90
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08780911",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 90
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08780911",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 90
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08780911",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 90
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08780911",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 90
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08780911",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 90
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08780911",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 90
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08780911",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 90
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08780911",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 90
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08780911",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 90
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08780911",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 90
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08780911",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 90
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08780911",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 90
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08780911",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 90
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08780911",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 90
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08780911",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 90
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08780911",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 90
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08780911",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 90
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08780911",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 90
+        }
+    ]
+}
+{
+    "frete": [
+        {
+            "cepori": "08690265",
+            "cepdes": "08780911",
+            "peso": 2,
+            "cnpj": "37804018000156",
+            "modalidade": 3,
+            "tpentrega": "D",
+            "ipseguro": "N",
+            "vldeclarado": 90
+        }
+    ]
+}

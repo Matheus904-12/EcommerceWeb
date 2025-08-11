@@ -1,0 +1,25 @@
+{
+        "pagina_inicial": {
+            "hero": {
+                "texto": "",
+                "imagem": ""
+            },
+            "sobre": {
+                "texto": "",
+                "midia": ""
+            },
+            "produtos": {
+                "titulo": "",
+                "texto": ""
+            }
+        },
+        "contato": {
+            "whatsapp": "",
+            "instagram": "",
+            "facebook": "",
+            "email": ""
+        },
+        "rodape": {
+            "texto": ""
+        }
+    }

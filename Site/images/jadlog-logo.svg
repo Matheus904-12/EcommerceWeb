@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 60" width="200" height="60">
+  <style>
+    .jadlog-orange {fill: #FF6600;}
+    .jadlog-black {fill: #000000;}
+  </style>
+  <path class="jadlog-orange" d="M20 10h30c5.5 0 10 4.5 10 10v20c0 5.5-4.5 10-10 10H20c-5.5 0-10-4.5-10-10V20c0-5.5 4.5-10 10-10z"/>
+  <path class="jadlog-black" d="M70 15h10v30H70zM85 15h10l15 15V15h10v30h-10l-15-15v15H85z"/>
+  <path class="jadlog-orange" d="M125 15h10v30h-10zM140 15h10l10 12 10-12h10v30h-10V25l-10 12-10-12v20h-10z"/>
+  <path class="jadlog-black" d="M30 20v20h10V20H30z"/>
+  <path class="jadlog-black" d="M45 20v20h10V30l5 5 5-5v10h10V20H65v5l-5 5-5-5v-5H45z"/>
+</svg>

@@ -1,0 +1,471 @@
+[2025-06-03 18:21:26] Recebida requisição: process_payment
+[2025-06-03 18:21:26] Dados enviados: {"MerchantOrderId":"ORD-397461","Customer":{"Name":"Teste","Email":"teste@gmail.com","Identity":"99999999999","IdentityType":"CPF"},"Payment":{"Type":"DebitCard","Amount":5800,"Installments":1,"Capture":true,"SoftDescriptor":"GOLDLARCRISTAIS","ReturnUrl":"https:\/\/cristaisgoldlar.com.br\/Site\/checkout.php","DebitCard":{"CardNumber":"4012001037141112","Holder":"Teste","ExpirationDate":"1225","SecurityCode":"123","Brand":"Visa"}}}
+[2025-06-03 18:21:26] Resposta da API (HTTP 400): [
+  {
+    "Code": 126,
+    "Message": "Credit Card Expiration Date is invalid"
+  }
+]
+[2025-06-03 18:21:26] Erro ao processar pagamento: Erro ao processar pagamento
+[2025-06-03 18:21:33] Recebida requisição: process_payment
+[2025-06-03 18:21:33] Dados enviados: {"MerchantOrderId":"ORD-397461","Customer":{"Name":"Teste","Email":"teste@gmail.com","Identity":"99999999999","IdentityType":"CPF"},"Payment":{"Type":"DebitCard","Amount":5800,"Installments":1,"Capture":true,"SoftDescriptor":"GOLDLARCRISTAIS","ReturnUrl":"https:\/\/cristaisgoldlar.com.br\/Site\/checkout.php","DebitCard":{"CardNumber":"4012001037141112","Holder":"Teste","ExpirationDate":"1225","SecurityCode":"123","Brand":"Visa"}}}
+[2025-06-03 18:21:33] Resposta da API (HTTP 400): [
+  {
+    "Code": 126,
+    "Message": "Credit Card Expiration Date is invalid"
+  }
+]
+[2025-06-03 18:21:33] Erro ao processar pagamento: Erro ao processar pagamento
+[2025-06-03 18:26:04] Recebida requisição: process_payment
+[2025-06-03 18:26:04] Dados enviados: {"MerchantOrderId":"ORD-658194","Customer":{"Name":"Teste","Email":"teste@gmail.com","Identity":"99999999999","IdentityType":"CPF"},"Payment":{"Type":"CreditCard","Amount":5800,"Installments":1,"Capture":true,"SoftDescriptor":"GOLDLARCRISTAIS","ReturnUrl":"https:\/\/cristaisgoldlar.com.br\/Site\/checkout.php","CreditCard":{"CardNumber":"4012001037141112","Holder":"Teste","ExpirationDate":"1225","SecurityCode":"123","Brand":"Visa"}}}
+[2025-06-03 18:26:05] Resposta da API (HTTP 400): [
+  {
+    "Code": 126,
+    "Message": "Credit Card Expiration Date is invalid"
+  }
+]
+[2025-06-03 18:26:05] Erro ao processar pagamento: Erro ao processar pagamento
+[2025-06-03 18:26:10] Recebida requisição: process_payment
+[2025-06-03 18:26:10] Dados enviados: {"MerchantOrderId":"ORD-658194","Customer":{"Name":"Teste","Email":"teste@gmail.com","Identity":"99999999999","IdentityType":"CPF"},"Payment":{"Type":"CreditCard","Amount":5800,"Installments":1,"Capture":true,"SoftDescriptor":"GOLDLARCRISTAIS","ReturnUrl":"https:\/\/cristaisgoldlar.com.br\/Site\/checkout.php","CreditCard":{"CardNumber":"4012001037141112","Holder":"Teste","ExpirationDate":"1225","SecurityCode":"123","Brand":"Visa"}}}
+[2025-06-03 18:26:11] Resposta da API (HTTP 400): [
+  {
+    "Code": 126,
+    "Message": "Credit Card Expiration Date is invalid"
+  }
+]
+[2025-06-03 18:26:11] Erro ao processar pagamento: Erro ao processar pagamento
+[2025-06-03 18:33:15] Recebida requisição: process_payment
+[2025-06-03 18:33:15] Dados enviados: {"MerchantOrderId":"ORD-658194","Customer":{"Name":"Teste","Email":"teste@gmail.com","Identity":"99999999999","IdentityType":"CPF"},"Payment":{"Type":"CreditCard","Amount":5800,"Installments":1,"Capture":true,"SoftDescriptor":"GOLDLARCRISTAIS","ReturnUrl":"https:\/\/cristaisgoldlar.com.br\/Site\/checkout.php","CreditCard":{"CardNumber":"4012001037141112","Holder":"Teste","ExpirationDate":"0625","SecurityCode":"123","Brand":"Visa"}}}
+[2025-06-03 18:33:16] Resposta da API (HTTP 400): [
+  {
+    "Code": 126,
+    "Message": "Credit Card Expiration Date is invalid"
+  }
+]
+[2025-06-03 18:33:16] Erro ao processar pagamento: Erro ao processar pagamento
+[2025-06-03 18:35:09] Recebida requisição: process_payment
+[2025-06-03 18:35:09] Dados enviados: {"MerchantOrderId":"ORD-679177","Customer":{"Name":"Teste","Email":"teste@gmail.com","Identity":"99999999999","IdentityType":"CPF"},"Payment":{"Type":"CreditCard","Amount":5800,"Installments":1,"Capture":true,"SoftDescriptor":"GOLDLARCRISTAIS","ReturnUrl":"https:\/\/cristaisgoldlar.com.br\/Site\/checkout.php","CreditCard":{"CardNumber":"4012001037141112","Holder":"Teste","ExpirationDate":"0625","SecurityCode":"123","Brand":"Visa"}}}
+[2025-06-03 18:35:10] Resposta da API (HTTP 400): [
+  {
+    "Code": 126,
+    "Message": "Credit Card Expiration Date is invalid"
+  }
+]
+[2025-06-03 18:35:10] Erro ao processar pagamento: Erro ao processar pagamento
+[2025-06-03 18:36:38] Recebida requisição: process_payment
+[2025-06-03 18:36:38] Dados enviados: {"MerchantOrderId":"ORD-679177","Customer":{"Name":"Teste","Email":"teste@gmail.com","Identity":"99999999999","IdentityType":"CPF"},"Payment":{"Type":"CreditCard","Amount":5800,"Installments":1,"Capture":true,"SoftDescriptor":"GOLDLARCRISTAIS","ReturnUrl":"https:\/\/cristaisgoldlar.com.br\/Site\/checkout.php","CreditCard":{"CardNumber":"4012001037141112","Holder":"Teste","ExpirationDate":"0625","SecurityCode":"123","Brand":"Visa"}}}
+[2025-06-03 18:36:38] Resposta da API (HTTP 400): [
+  {
+    "Code": 126,
+    "Message": "Credit Card Expiration Date is invalid"
+  }
+]
+[2025-06-03 18:36:38] Erro ao processar pagamento: Erro ao processar pagamento
+[2025-06-03 18:44:32] Recebida requisição: process_payment
+[2025-06-03 18:44:32] Dados enviados: {"MerchantOrderId":"ORD-301311","Customer":{"Name":"Teste","Email":"teste@gmail.com","Identity":"99999999999","IdentityType":"CPF"},"Payment":{"Type":"CreditCard","Amount":5800,"Installments":1,"Capture":true,"SoftDescriptor":"GOLDLARCRISTAIS","ReturnUrl":"https:\/\/cristaisgoldlar.com.br\/Site\/checkout.php","CreditCard":{"CardNumber":"4012001037141112","Holder":"Teste","ExpirationDate":"1226","SecurityCode":"123","Brand":"Visa"}}}
+[2025-06-03 18:44:33] Resposta da API (HTTP 400): [
+  {
+    "Code": 126,
+    "Message": "Credit Card Expiration Date is invalid"
+  }
+]
+[2025-06-03 18:44:33] Erro ao processar pagamento: Erro ao processar pagamento
+[2025-06-03 18:56:52] Dados enviados: {"MerchantOrderId":"ORD-930827","Customer":{"Name":"Teste","Email":"teste@gmail.com","Identity":"99999999999","IdentityType":"CPF"},"Payment":{"Type":"CreditCard","Amount":5800,"Installments":1,"Capture":true,"SoftDescriptor":"GOLDLARCRISTAIS","ReturnUrl":"https:\/\/cristaisgoldlar.com.br\/Site\/checkout.php","CreditCard":{"CardNumber":"4012001037141112","Holder":"Teste","ExpirationDate":"12\/2025","SecurityCode":"123","Brand":"Visa"}}}
+[2025-06-03 18:56:53] Resposta da API (HTTP 401): 
+[2025-06-03 18:56:53] Erro ao processar pagamento: Erro ao processar pagamento
+[2025-06-05 17:04:28] Dados enviados: {"MerchantOrderId":"ORD-086041","Customer":{"Name":"Teste","Email":"teste@gmail.com","Identity":"99999999999","IdentityType":"CPF"},"Payment":{"Type":"CreditCard","Amount":5800,"Installments":1,"Capture":true,"SoftDescriptor":"GOLDLARCRISTAIS","ReturnUrl":"https:\/\/cristaisgoldlar.com.br\/Site\/checkout.php","CreditCard":{"CardNumber":"4012001037141112","Holder":"Teste","ExpirationDate":"12\/2025","SecurityCode":"123","Brand":"Visa"}}}
+[2025-06-05 17:04:28] Detalhes verbose: *   Trying 23.219.67.202...
+* TCP_NODELAY set
+* Connected to apisandbox.cieloecommerce.cielo.com.br (23.219.67.202) port 443 (#0)
+* ALPN, offering http/1.1
+* successfully set certificate verify locations:
+*   CAfile: /etc/pki/tls/certs/ca-bundle.crt
+  CApath: none
+* SSL connection using TLSv1.3 / TLS_AES_256_GCM_SHA384
+* ALPN, server accepted to use http/1.1
+* Server certificate:
+*  subject: C=BR; ST=S�o Paulo; L=Barueri; O=CIELO S.A - INSTITUICAO DE PAGAMENTO; CN=api.cieloecommerce.cielo.com.br
+*  start date: Feb  2 00:00:00 2025 GMT
+*  expire date: Feb  4 23:59:59 2026 GMT
+*  subjectAltName: host "apisandbox.cieloecommerce.cielo.com.br" matched cert's "apisandbox.cieloecommerce.cielo.com.br"
+*  issuer: C=US; O=DigiCert Inc; CN=DigiCert TLS RSA SHA256 2020 CA1
+*  SSL certificate verify ok.
+> POST /1/sales HTTP/1.1
+Host: apisandbox.cieloecommerce.cielo.com.br
+Accept: */*
+Content-Type: application/json
+MerchantId: f1439e54-d19a-4741-9244-65279a74db98
+MerchantKey: 8lFJpqBs80NPBoE0IBdCl5CHD+Be681eIs3vwK++Xrw=
+Content-Length: 440
+
+* upload completely sent off: 440 out of 440 bytes
+< HTTP/1.1 400 Bad Request
+< Content-Type: text/plain; charset=utf-8
+< X-Response-Time-ms: 0
+< Content-Length: 49
+< Date: Thu, 05 Jun 2025 20:04:28 GMT
+< Connection: close
+< 
+* Closing connection 0
+
+[2025-06-05 17:04:28] Resposta da API (HTTP 400): [{"Code":132,"Message":"MerchantKey is invalid"}]
+[2025-06-05 17:04:28] Erro ao processar pagamento: MerchantKey is invalid
+[2025-06-05 17:04:48] Dados enviados: {"MerchantOrderId":"ORD-086041","Customer":{"Name":"Teste","Email":"teste@gmail.com","Identity":"99999999999","IdentityType":"CPF"},"Payment":{"Type":"CreditCard","Amount":5800,"Installments":1,"Capture":true,"SoftDescriptor":"GOLDLARCRISTAIS","ReturnUrl":"https:\/\/cristaisgoldlar.com.br\/Site\/checkout.php","CreditCard":{"CardNumber":"4012001037141112","Holder":"Teste","ExpirationDate":"12\/2025","SecurityCode":"123","Brand":"Visa"}}}
+[2025-06-05 17:04:48] Detalhes verbose: *   Trying 23.219.67.210...
+* TCP_NODELAY set
+* Connected to apisandbox.cieloecommerce.cielo.com.br (23.219.67.210) port 443 (#0)
+* ALPN, offering http/1.1
+* successfully set certificate verify locations:
+*   CAfile: /etc/pki/tls/certs/ca-bundle.crt
+  CApath: none
+* SSL connection using TLSv1.3 / TLS_AES_256_GCM_SHA384
+* ALPN, server accepted to use http/1.1
+* Server certificate:
+*  subject: C=BR; ST=S�o Paulo; L=Barueri; O=CIELO S.A - INSTITUICAO DE PAGAMENTO; CN=api.cieloecommerce.cielo.com.br
+*  start date: Feb  2 00:00:00 2025 GMT
+*  expire date: Feb  4 23:59:59 2026 GMT
+*  subjectAltName: host "apisandbox.cieloecommerce.cielo.com.br" matched cert's "apisandbox.cieloecommerce.cielo.com.br"
+*  issuer: C=US; O=DigiCert Inc; CN=DigiCert TLS RSA SHA256 2020 CA1
+*  SSL certificate verify ok.
+> POST /1/sales HTTP/1.1
+Host: apisandbox.cieloecommerce.cielo.com.br
+Accept: */*
+Content-Type: application/json
+MerchantId: f1439e54-d19a-4741-9244-65279a74db98
+MerchantKey: 8lFJpqBs80NPBoE0IBdCl5CHD+Be681eIs3vwK++Xrw=
+Content-Length: 440
+
+* upload completely sent off: 440 out of 440 bytes
+< HTTP/1.1 400 Bad Request
+< Content-Type: text/plain; charset=utf-8
+< X-Response-Time-ms: 0
+< Content-Length: 49
+< Date: Thu, 05 Jun 2025 20:04:48 GMT
+< Connection: close
+< 
+* Closing connection 0
+
+[2025-06-05 17:04:48] Resposta da API (HTTP 400): [{"Code":132,"Message":"MerchantKey is invalid"}]
+[2025-06-05 17:04:48] Erro ao processar pagamento: MerchantKey is invalid
+[2025-06-05 17:11:02] Dados enviados: {"MerchantOrderId":"ORD-468403","Customer":{"Name":"Teste","Email":"teste@gmail.com","Identity":"99999999999","IdentityType":"CPF"},"Payment":{"Type":"CreditCard","Amount":5800,"Installments":1,"Capture":true,"SoftDescriptor":"GOLDLARCRISTAIS","ReturnUrl":"https:\/\/cristaisgoldlar.com.br\/Site\/checkout.php","CreditCard":{"CardNumber":"4012001037141112","Holder":"Teste","ExpirationDate":"12\/2025","SecurityCode":"123","Brand":"Visa"}}}
+[2025-06-05 17:11:02] Detalhes verbose: *   Trying 2.21.10.27...
+* TCP_NODELAY set
+* Connected to apisandbox.cieloecommerce.cielo.com.br (2.21.10.27) port 443 (#0)
+* ALPN, offering http/1.1
+* successfully set certificate verify locations:
+*   CAfile: /etc/pki/tls/certs/ca-bundle.crt
+  CApath: none
+* SSL connection using TLSv1.3 / TLS_AES_256_GCM_SHA384
+* ALPN, server accepted to use http/1.1
+* Server certificate:
+*  subject: C=BR; ST=S�o Paulo; L=Barueri; O=CIELO S.A - INSTITUICAO DE PAGAMENTO; CN=api.cieloecommerce.cielo.com.br
+*  start date: Feb  2 00:00:00 2025 GMT
+*  expire date: Feb  4 23:59:59 2026 GMT
+*  subjectAltName: host "apisandbox.cieloecommerce.cielo.com.br" matched cert's "apisandbox.cieloecommerce.cielo.com.br"
+*  issuer: C=US; O=DigiCert Inc; CN=DigiCert TLS RSA SHA256 2020 CA1
+*  SSL certificate verify ok.
+> POST /1/sales HTTP/1.1
+Host: apisandbox.cieloecommerce.cielo.com.br
+Accept: */*
+Content-Type: application/json
+MerchantId: e85b80d2-3bec-4c7b-b64f-cb24aa76f51e
+MerchantKey: 9VYU5i0FSG7JDsIeOaRTkDrbqzbI14AotHcG5Yow
+Content-Length: 440
+
+* upload completely sent off: 440 out of 440 bytes
+< HTTP/1.1 401 Unauthorized
+< Content-Length: 0
+< X-Response-Time-ms: 22
+< Date: Thu, 05 Jun 2025 20:11:02 GMT
+< Connection: close
+< 
+* Closing connection 0
+
+[2025-06-05 17:11:02] Resposta da API (HTTP 401): Sem resposta
+[2025-06-05 17:11:02] Erro ao processar pagamento: Erro ao processar pagamento
+[2025-06-05 17:13:17] Resposta da API de autenticação (HTTP 400): {"error":"invalid_client","error_description":"A autenticação do cliente falhou. Por favor, informe o Request Id para o suporte: f0c95242-2dfa-4186-80a8-7b892b9629de."}
+[2025-06-05 17:13:17] Erro ao obter token: 
+[2025-06-05 17:13:17] Erro: Token de acesso não obtido
+[2025-06-05 17:13:17] Erro ao processar pagamento: Token não disponível
+[2025-06-05 17:16:38] Credenciais codificadas em Base64: ZjE0MzllNTQtZDE5YS00NzQxLTkyNDQtNjUyNzlhNzRkYjk4OjhsRkpwcUJzODBOUEJvRTBJQmRDbDVDSEQrQmU2ODFlSXMzdndLKytYcnc9
+[2025-06-05 17:16:39] Resposta da API de autenticação (HTTP 400): {"error":"invalid_client","error_description":"A autenticação do cliente falhou. Por favor, informe o Request Id para o suporte: ee7bf1d7-b6d2-4aed-8761-ad2d90174449."}
+[2025-06-05 17:16:39] Erro ao obter token: 
+[2025-06-05 17:16:39] Erro: Token de acesso não obtido
+[2025-06-05 17:16:39] Erro ao processar pagamento: Token não disponível
+[2025-06-05 17:33:56] Credenciais codificadas em Base64: ZjE0MzllNTQtZDE5YS00NzQxLTkyNDQtNjUyNzlhNzRkYjk4OjhsRkpwcUJzODBOUEJvRTBJQmRDbDVDSEQrQmU2ODFlSXMzdndLKytYcnc9
+[2025-06-05 17:33:57] Resposta da API de autenticação (HTTP 400): {"error":"invalid_client","error_description":"A autenticação do cliente falhou. Por favor, informe o Request Id para o suporte: 8afda372-3418-43e4-8507-afa8cd1a0043."}
+[2025-06-05 17:33:57] Erro ao obter token: 
+[2025-06-05 17:33:57] Erro: Token de acesso não obtido
+[2025-06-05 17:33:57] Erro ao processar pagamento: Token não disponível
+[2025-06-05 18:05:41] Credenciais codificadas em Base64: ZTg1YjgwZDItM2JlYy00YzdiLWI2NGYtY2IyNGFhNzZmNTFlOnM3S3djVU1zOWZLeUtnVFRqQTB1WWM0clN5S1NJUUpiaGtE
+[2025-06-05 18:05:42] Resposta da API de autenticação (HTTP 400): {"error":"invalid_client","error_description":"A autenticação do cliente falhou. Por favor, informe o Request Id para o suporte: 7417f0da-8ec0-498e-b481-6882038b21a0."}
+[2025-06-05 18:05:42] Erro ao obter token: 
+[2025-06-05 18:05:42] Erro: Token de acesso não obtido
+[2025-06-05 18:05:42] Erro ao processar pagamento: Token não disponível
+[2025-06-05 18:13:13] Credenciais codificadas em Base64: ZTg1YjgwZDItM2JlYy00YzdiLWI2NGYtY2IyNGFhNzZmNTFlOnM3S3djVU1zOWZLeUtnVFRqQTB1WWM0clN5S1NJUUpiaGtE
+[2025-06-05 18:13:13] Resposta da API de autenticação (HTTP 400): {"error":"invalid_client","error_description":"A autenticação do cliente falhou. Por favor, informe o Request Id para o suporte: ddcf6c66-8bbd-4dcc-b8e9-9af485386f51."}
+[2025-06-05 18:13:13] Erro ao obter token: 
+[2025-06-05 18:13:13] Erro: Token de acesso não obtido
+[2025-06-05 18:13:13] Erro ao processar pagamento: Token não disponível
+[2025-06-05 18:25:37] Dados enviados: {"MerchantOrderId":"ORD-004279","Customer":{"Name":"MATHEUS LUCINDO DOS SANTOS","Email":"matheuslucindo904@gmail.com","Identity":"50309276896","IdentityType":"CPF"},"Payment":{"Type":"DebitCard","Amount":5800,"Installments":1,"Capture":true,"SoftDescriptor":"GOLDLARCRISTAIS","ReturnUrl":"https:\/\/cristaisgoldlar.com.br\/Site\/checkout.php","DebitCard":{"CardNumber":"6505278020460209","Holder":"MATHEUS LUCINDO DOS SANTOS","ExpirationDate":"08\/2026","SecurityCode":"743","Brand":"Discover"}}}
+[2025-06-05 18:25:37] Detalhes verbose: *   Trying 2.21.10.51...
+* TCP_NODELAY set
+* Connected to apisandbox.cieloecommerce.cielo.com.br (2.21.10.51) port 443 (#0)
+* ALPN, offering http/1.1
+* successfully set certificate verify locations:
+*   CAfile: /etc/pki/tls/certs/ca-bundle.crt
+  CApath: none
+* SSL connection using TLSv1.3 / TLS_AES_256_GCM_SHA384
+* ALPN, server accepted to use http/1.1
+* Server certificate:
+*  subject: C=BR; ST=S�o Paulo; L=Barueri; O=CIELO S.A - INSTITUICAO DE PAGAMENTO; CN=api.cieloecommerce.cielo.com.br
+*  start date: Feb  2 00:00:00 2025 GMT
+*  expire date: Feb  4 23:59:59 2026 GMT
+*  subjectAltName: host "apisandbox.cieloecommerce.cielo.com.br" matched cert's "apisandbox.cieloecommerce.cielo.com.br"
+*  issuer: C=US; O=DigiCert Inc; CN=DigiCert TLS RSA SHA256 2020 CA1
+*  SSL certificate verify ok.
+> POST /1/sales HTTP/1.1
+Host: apisandbox.cieloecommerce.cielo.com.br
+Accept: */*
+Content-Type: application/json
+MerchantId: e85b80d2-3bec-4c7b-b64f-cb24aa76f51e
+MerchantKey: s7KwcUMs9fKyKgTTjA0uYc4rSyKSIQJbhkD
+Content-Length: 496
+
+* upload completely sent off: 496 out of 496 bytes
+< HTTP/1.1 400 Bad Request
+< Content-Type: text/plain; charset=utf-8
+< X-Response-Time-ms: 1
+< Content-Length: 49
+< Date: Thu, 05 Jun 2025 21:25:37 GMT
+< Connection: close
+< 
+* Closing connection 0
+
+[2025-06-05 18:25:37] Resposta da API (HTTP 400): [{"Code":132,"Message":"MerchantKey is invalid"}]
+[2025-06-05 18:25:37] Erro ao processar pagamento: MerchantKey is invalid
+[2025-06-05 18:26:09] Dados enviados: {"MerchantOrderId":"ORD-004279","Customer":{"Name":"MATHEUS LUCINDO DOS SANTOS","Email":"matheuslucindo904@gmail.com","Identity":"50309276896","IdentityType":"CPF"},"Payment":{"Type":"DebitCard","Amount":5800,"Installments":1,"Capture":true,"SoftDescriptor":"GOLDLARCRISTAIS","ReturnUrl":"https:\/\/cristaisgoldlar.com.br\/Site\/checkout.php","DebitCard":{"CardNumber":"6505278020460209","Holder":"MATHEUS LUCINDO DOS SANTOS","ExpirationDate":"08\/2026","SecurityCode":"743","Brand":"Discover"}}}
+[2025-06-05 18:26:10] Detalhes verbose: *   Trying 2.21.10.27...
+* TCP_NODELAY set
+* Connected to apisandbox.cieloecommerce.cielo.com.br (2.21.10.27) port 443 (#0)
+* ALPN, offering http/1.1
+* successfully set certificate verify locations:
+*   CAfile: /etc/pki/tls/certs/ca-bundle.crt
+  CApath: none
+* SSL connection using TLSv1.3 / TLS_AES_256_GCM_SHA384
+* ALPN, server accepted to use http/1.1
+* Server certificate:
+*  subject: C=BR; ST=S�o Paulo; L=Barueri; O=CIELO S.A - INSTITUICAO DE PAGAMENTO; CN=api.cieloecommerce.cielo.com.br
+*  start date: Feb  2 00:00:00 2025 GMT
+*  expire date: Feb  4 23:59:59 2026 GMT
+*  subjectAltName: host "apisandbox.cieloecommerce.cielo.com.br" matched cert's "apisandbox.cieloecommerce.cielo.com.br"
+*  issuer: C=US; O=DigiCert Inc; CN=DigiCert TLS RSA SHA256 2020 CA1
+*  SSL certificate verify ok.
+> POST /1/sales HTTP/1.1
+Host: apisandbox.cieloecommerce.cielo.com.br
+Accept: */*
+Content-Type: application/json
+MerchantId: e85b80d2-3bec-4c7b-b64f-cb24aa76f51e
+MerchantKey: s7KwcUMs9fKyKgTTjA0uYc4rSyKSIQJbhkD
+Content-Length: 496
+
+* upload completely sent off: 496 out of 496 bytes
+< HTTP/1.1 400 Bad Request
+< Content-Type: text/plain; charset=utf-8
+< X-Response-Time-ms: 0
+< Content-Length: 49
+< Date: Thu, 05 Jun 2025 21:26:10 GMT
+< Connection: close
+< 
+* Closing connection 0
+
+[2025-06-05 18:26:10] Resposta da API (HTTP 400): [{"Code":132,"Message":"MerchantKey is invalid"}]
+[2025-06-05 18:26:10] Erro ao processar pagamento: MerchantKey is invalid
+[2025-06-18 12:21:38] Dados enviados: {"MerchantOrderId":"ORD-147641","Customer":{"Name":"MATHEUS LUCINDO DOS SANTOS","Email":"matheuslucindo904@gmail.com","Identity":"50309276896","IdentityType":"CPF"},"Payment":{"Type":"DebitCard","Amount":5000,"Installments":1,"Capture":true,"SoftDescriptor":"GOLDLARCRISTAIS","ReturnUrl":"https:\/\/cristaisgoldlar.com.br\/Site\/checkout.php","DebitCard":{"CardNumber":"6505278020460209","Holder":"MATHEUS LUCINDO DOS SANTOS","ExpirationDate":"08\/2026","SecurityCode":"743","Brand":"Discover"}}}
+[2025-06-18 12:21:38] Detalhes verbose: *   Trying 2.20.139.82...
+* TCP_NODELAY set
+* Connected to apisandbox.cieloecommerce.cielo.com.br (2.20.139.82) port 443 (#0)
+* ALPN, offering http/1.1
+* successfully set certificate verify locations:
+*   CAfile: /etc/pki/tls/certs/ca-bundle.crt
+  CApath: none
+* SSL connection using TLSv1.3 / TLS_AES_256_GCM_SHA384
+* ALPN, server accepted to use http/1.1
+* Server certificate:
+*  subject: C=BR; ST=S�o Paulo; L=Barueri; O=CIELO S.A - INSTITUICAO DE PAGAMENTO; CN=api.cieloecommerce.cielo.com.br
+*  start date: Feb  2 00:00:00 2025 GMT
+*  expire date: Feb  4 23:59:59 2026 GMT
+*  subjectAltName: host "apisandbox.cieloecommerce.cielo.com.br" matched cert's "apisandbox.cieloecommerce.cielo.com.br"
+*  issuer: C=US; O=DigiCert Inc; CN=DigiCert TLS RSA SHA256 2020 CA1
+*  SSL certificate verify ok.
+> POST /1/sales HTTP/1.1
+Host: apisandbox.cieloecommerce.cielo.com.br
+Accept: */*
+Content-Type: application/json
+MerchantId: e85b80d2-3bec-4c7b-b64f-cb24aa76f51e
+MerchantKey: s7KwcUMs9fKyKgTTjA0uYc4rSyKSIQJbhkD
+Content-Length: 496
+
+* upload completely sent off: 496 out of 496 bytes
+< HTTP/1.1 400 Bad Request
+< Content-Type: text/plain; charset=utf-8
+< X-Response-Time-ms: 1
+< Content-Length: 49
+< Date: Wed, 18 Jun 2025 15:21:38 GMT
+< Connection: close
+< 
+* Closing connection 0
+
+[2025-06-18 12:21:38] Resposta da API (HTTP 400): [{"Code":132,"Message":"MerchantKey is invalid"}]
+[2025-06-18 12:21:38] Erro ao processar pagamento: MerchantKey is invalid
+[2025-06-18 13:22:49] Dados enviados: {"MerchantOrderId":"ORD-905070","Customer":{"Name":"MATHEUS LUCINDO DOS SANTOS","Email":"matheuslucindo904@gmail.com","Identity":"50309276896","IdentityType":"CPF"},"Payment":{"Type":"DebitCard","Amount":5000,"Installments":1,"Capture":true,"SoftDescriptor":"GOLDLARCRISTAIS","ReturnUrl":"https:\/\/cristaisgoldlar.com.br\/Site\/checkout.php","DebitCard":{"CardNumber":"6505278020460209","Holder":"MATHEUS LUCINDO DOS SANTOS","ExpirationDate":"08\/26","SecurityCode":"743","Brand":"Discover"}}}
+[2025-06-18 13:32:03] Erro ao processar pagamento
+{
+    "MerchantOrderId": "ORD1750264266200",
+    "Customer": {
+        "Name": "MATHEUS LUCINDO DOS SANTOS",
+        "Email": "matheuslucindo904@gmail.com",
+        "Identity": "50309276896",
+        "IdentityType": "CPF"
+    },
+    "Payment": {
+        "Type": "DebitCard",
+        "Amount": 5000,
+        "Installments": 1,
+        "Capture": true,
+        "SoftDescriptor": "GOLDLAR",
+        "ReturnUrl": "https:\/\/cristaisgoldlar.com.br\/Site\/checkout.php",
+        "DebitCard": {
+            "CardNumber": "6505278020460209",
+            "Holder": "MATHEUS LUCINDO DOS SANTOS",
+            "ExpirationDate": "08\/26",
+            "SecurityCode": "743",
+            "Brand": "Elo"
+        }
+    }
+}
+[2025-06-18 13:58:43] Erro ao processar pagamento
+{
+    "MerchantOrderId": "ORD1750265866624",
+    "Customer": {
+        "Name": "MATHEUS LUCINDO DOS SANTOS",
+        "Email": "matheuslucindo904@gmail.com",
+        "Identity": "50309276896",
+        "IdentityType": "CPF"
+    },
+    "Payment": {
+        "Type": "DebitCard",
+        "Amount": 5000,
+        "Installments": 1,
+        "Capture": true,
+        "SoftDescriptor": "GOLDLAR",
+        "ReturnUrl": "https:\/\/cristaisgoldlar.com.br\/Site\/checkout.php",
+        "DebitCard": {
+            "CardNumber": "6505278020460209",
+            "Holder": "MATHEUS LUCINDO DOS SANTOS",
+            "ExpirationDate": "08\/26",
+            "SecurityCode": "743",
+            "Brand": "Elo"
+        }
+    }
+}
+[2025-06-18 14:26:00] Erro ao processar pagamento
+{
+    "MerchantOrderId": "ORD1750267503971",
+    "Customer": {
+        "Name": "MATHEUS LUCINDO DOS SANTOS",
+        "Email": "matheuslucindo904@gmail.com",
+        "Identity": "50309276896",
+        "IdentityType": "CPF"
+    },
+    "Payment": {
+        "Type": "DebitCard",
+        "Amount": 5000,
+        "Installments": 1,
+        "Capture": true,
+        "SoftDescriptor": "GOLDLAR",
+        "ReturnUrl": "https:\/\/cristaisgoldlar.com.br\/Site\/checkout.php",
+        "DebitCard": {
+            "CardNumber": "6505278020460209",
+            "Holder": "MATHEUS LUCINDO DOS SANTOS",
+            "ExpirationDate": "08\/26",
+            "SecurityCode": "743",
+            "Brand": "Elo"
+        }
+    }
+}
+[2025-06-18 14:26:08] Erro ao processar pagamento
+{
+    "MerchantOrderId": "ORD1750267512063",
+    "Customer": {
+        "Name": "MATHEUS LUCINDO DOS SANTOS",
+        "Email": "matheuslucindo904@gmail.com",
+        "Identity": "50309276896",
+        "IdentityType": "CPF"
+    },
+    "Payment": {
+        "Type": "DebitCard",
+        "Amount": 5000,
+        "Installments": 1,
+        "Capture": true,
+        "SoftDescriptor": "GOLDLAR",
+        "ReturnUrl": "https:\/\/cristaisgoldlar.com.br\/Site\/checkout.php",
+        "DebitCard": {
+            "CardNumber": "6505278020460209",
+            "Holder": "MATHEUS LUCINDO DOS SANTOS",
+            "ExpirationDate": "08\/26",
+            "SecurityCode": "743",
+            "Brand": "Elo"
+        }
+    }
+}
+[2025-06-18 14:52:02] Erro ao processar pagamento
+{
+    "MerchantOrderId": "ORD1750269065397",
+    "Customer": {
+        "Name": "MATHEUS LUCINDO DOS SANTOS",
+        "Email": "matheuslucindo904@gmail.com",
+        "Identity": "50309276896",
+        "IdentityType": "CPF"
+    },
+    "Payment": {
+        "Type": "DebitCard",
+        "Amount": 5000,
+        "Installments": 1,
+        "Capture": true,
+        "SoftDescriptor": "GOLDLAR",
+        "ReturnUrl": "https:\/\/cristaisgoldlar.com.br\/Site\/checkout.php",
+        "DebitCard": {
+            "CardNumber": "6505278020460209",
+            "Holder": "MATHEUS LUCINDO DOS SANTOS",
+            "ExpirationDate": "08\/26",
+            "SecurityCode": "743",
+            "Brand": "Elo"
+        }
+    }
+}
+[2025-06-18 15:08:45] Erro ao processar pagamento
+{
+    "MerchantOrderId": "ORD1750270068825",
+    "Customer": {
+        "Name": "MATHEUS LUCINDO DOS SANTOS",
+        "Email": "matheuslucindo904@gmail.com",
+        "Identity": "50309276896",
+        "IdentityType": "CPF"
+    },
+    "Payment": {
+        "Type": "DebitCard",
+        "Amount": 5000,
+        "Installments": 1,
+        "Capture": true,
+        "SoftDescriptor": "GOLDLAR",
+        "ReturnUrl": "https:\/\/cristaisgoldlar.com.br\/Site\/checkout.php?status=success",
+        "DebitCard": {
+            "CardNumber": "6505278020460209",
+            "Holder": "MATHEUS LUCINDO DOS SANTOS",
+            "ExpirationDate": "08\/2026",
+            "SecurityCode": "743",
+            "Brand": "Elo"
+        }
+    }
+}
