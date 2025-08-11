@@ -1,2 +1,0 @@
-# EcommerceWeb
-Plataforma Ecommerce Completa
