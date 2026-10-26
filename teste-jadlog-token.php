@@ -3,7 +3,11 @@
 header('Content-Type: text/plain');
 
 // Token da Jadlog - Substitua pelo token real da sua conta
-$jadlog_token = 'SEU_TOKEN_ATUALIZADO_AQUI'; // Substitua por um token válido
+$jadlog_token = getenv('JADLOG_TOKEN');
+if (!$jadlog_token) {
+    http_response_code(500);
+    exit("Configure a variável de ambiente JADLOG_TOKEN antes de executar este teste.\\n");
+} // Substitua por um token válido
 
 // Dados de teste
 $cep_origem = '08690265';
