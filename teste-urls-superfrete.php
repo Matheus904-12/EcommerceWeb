@@ -2,7 +2,11 @@
 // Teste de diferentes URLs da SuperFrete
 header('Content-Type: text/plain');
 
-$superfrete_token = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTIwODE3ODAsInN1YiI6InBPWTZHVVQ1b0NTZll2TVEwT05XeHpSYUR2ajIifQ.IgnswbL1J8n3SlUDU8OFi1wHp9ILeImSD0nIa-EI6bY';
+$superfrete_token = getenv('SUPERFRETE_TOKEN');
+if (!$superfrete_token) {
+    http_response_code(500);
+    exit("Configure a variável de ambiente SUPERFRETE_TOKEN antes de executar este teste.\\n");
+}
 
 $urls = [
     'https://api.superfrete.com.br/v1/quote',
