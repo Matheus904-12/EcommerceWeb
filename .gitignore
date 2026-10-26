@@ -36,3 +36,8 @@ Thumbs.db
 *.bak
 *.backup
 *~
+# Arquivos de diagnóstico e logs locais
+acessos_log.txt
+phpinfo.php
+test_curl.php
+teste-dns-superfrete.php
