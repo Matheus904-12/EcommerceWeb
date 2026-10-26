@@ -252,7 +252,10 @@ try {
     }
 
     // === CONFIGURAÇÃO SUPERFRETE ===
-    $superfrete_token = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTIyMDY1OTksInN1YiI6InBPWTZHVVQ1b0NTZll2TVEwT05XeHpSYUR2ajIifQ.Fg45Uc1QopBlkjfTmk0jxH8AnpVwdGl3iP2BjkTdp60';
+    $superfrete_token = getenv('SUPERFRETE_TOKEN');
+    if (!$superfrete_token) {
+        throw new Exception('Configure SUPERFRETE_TOKEN no ambiente do servidor.', 500);
+    }
     $endpoint = 'https://api.superfrete.com/api/v0/calculator';
 
     // Forçar o CEP de origem cadastrado na SuperFrete
@@ -327,7 +330,11 @@ try {
 function consultarJadlog($data) {
     // Token da Jadlog - ATENÇÃO: Este token está expirado ou inválido (erro 401)
     // É necessário obter um novo token válido da Jadlog para que a opção de frete apareça
-    $jadlog_token = 'eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJqYWRsb2dfdG9rZW4iLCJqdGkiOiIzNzgwNDAxODAwMDE1NiJ9.hTZMgwJhZMCbXQnwvlxLiU6tJGh0q7LRXEJtQtjYS8A';
+    $jadlog_token = getenv('JADLOG_TOKEN');
+    if (!$jadlog_token) {
+        error_log('JADLOG_TOKEN não configurado; cotação Jadlog ignorada.');
+        return [];
+    }
     
     // CNPJ da loja - Substitua pelo CNPJ real
     $cnpj = '37804018000156';
