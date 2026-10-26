@@ -42,10 +42,11 @@ Este projeto é uma plataforma de e-commerce desenvolvida em PHP, com integraç�
    ```sh
    composer install
    ```
-3. Configure o banco de dados em `adminView/config/dbconnect.php`.
-4. Ajuste as configurações do site em `config_site.json` e `config/banners.json`.
-5. Configure as credenciais das APIs em `adminView/config/bling_api.json` e outros arquivos de configuração.
-6. Certifique-se de que as permissões de escrita estejam corretas para as pastas `uploads/` e `logs/`.
+3. Configure as variáveis de ambiente de banco de dados (`DB_HOST`, `DB_USERNAME`, `DB_PASSWORD` e `DB_DATABASE`) no ambiente PHP/servidor. Use `.env.example` como referência; ele não é carregado automaticamente pelo PHP.
+4. Configure `SUPERFRETE_TOKEN` e `JADLOG_TOKEN` no ambiente se for utilizar as integrações de frete.
+5. Ajuste as configurações do site em `config_site.json` e `config/banners.json`.
+6. Configure as demais integrações usando credenciais no ambiente ou arquivos locais ignorados pelo Git — nunca grave credenciais reais no repositório.
+7. Certifique-se de que as permissões de escrita estejam corretas para as pastas `uploads/` e `logs/`.
 
 ## Como Executar
 
@@ -67,3 +68,10 @@ Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalh
 **Autor:** Matheus Lucindo dos Santos
 
 Dúvidas, sugestões ou problemas? Entre em contato pelo e-mail configurado em `config_site.json` ou via redes sociais informadas no mesmo arquivo.
+
+
+## Segurança e credenciais
+
+- Nunca versione tokens, senhas ou chaves reais.
+- Configure as variáveis sensíveis no ambiente do servidor; `.env.example` serve apenas como modelo.
+- Se uma credencial já foi publicada, revogue-a/renove-a no serviço de origem. Remover o valor do arquivo atual não apaga cópias presentes no histórico do Git.
