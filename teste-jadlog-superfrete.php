@@ -19,10 +19,18 @@
 header('Content-Type: text/plain');
 
 // Token da Jadlog - Substitua pelo token real da sua conta
-$jadlog_token = 'eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJqYWRsb2dfdG9rZW4iLCJqdGkiOiIzNzgwNDAxODAwMDE1NiJ9.hTZMgwJhZMCbXQnwvlxLiU6tJGh0q7LRXEJtQtjYS8A';
+$jadlog_token = getenv('JADLOG_TOKEN');
+if (!$jadlog_token) {
+    http_response_code(500);
+    exit("Configure a variável de ambiente JADLOG_TOKEN antes de executar este teste.\\n");
+}
 
 // Token do SuperFrete
-$superfrete_token = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTIyMDY1OTksInN1YiI6InBPWTZHVVQ1b0NTZll2TVEwT05XeHpSYUR2ajIifQ.Fg45Uc1QopBlkjfTmk0jxH8AnpVwdGl3iP2BjkTdp60';
+$superfrete_token = getenv('SUPERFRETE_TOKEN');
+if (!$superfrete_token) {
+    http_response_code(500);
+    exit("Configure a variável de ambiente SUPERFRETE_TOKEN antes de executar este teste.\\n");
+}
 
 echo "=== TESTE INTEGRAÇÃO JADLOG + SUPERFRETE ===\n";
 echo "Data/Hora: " . date('Y-m-d H:i:s') . "\n\n";
