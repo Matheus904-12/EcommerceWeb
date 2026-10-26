@@ -1,28 +1,36 @@
 <?php
-$servername = "goldlar_2025.mysql.dbaas.com.br";
-$username = "goldlar_2025";
-$password = "FNvVuWRZ#1";
-$database = "goldlar_2025";
+// Configure these variables in the PHP runtime/hosting environment.
+// Do not commit real database credentials to the repository.
+$servername = getenv('DB_HOST');
+$username = getenv('DB_USERNAME');
+$password = getenv('DB_PASSWORD');
+$database = getenv('DB_DATABASE');
 
+if ($servername === false || $username === false || $password === false || $database === false ||
+    $servername === '' || $username === '' || $database === '') {
+    error_log('Database environment variables are not fully configured.');
+    http_response_code(500);
+    die('Database configuration is missing. Configure DB_HOST, DB_USERNAME, DB_PASSWORD and DB_DATABASE.');
+}
+
+mysqli_report(MYSQLI_REPORT_OFF);
 $conn = new mysqli($servername, $username, $password, $database);
 
 if ($conn->connect_error) {
-    die("Erro na conexão com o banco (mysqli): " . $conn->connect_error);
-} else {
-    error_log("Conexão mysqli estabelecida com sucesso."); // Adicione esta linha
-    // Conexão bem-sucedida
+    error_log('MySQL connection failed: ' . $conn->connect_error);
+    http_response_code(500);
+    die('Database connection failed.');
 }
 
 try {
-    $usuario = 'goldlar_2025'; // Seu usuário do MySQL
-    $senha = 'FNvVuWRZ#1'; // Sua senha do MySQL
-    $banco = 'goldlar_2025'; // Nome do banco de dados
-    $servidor = 'goldlar_2025.mysql.dbaas.com.br'; // Servidor do banco de dados
-
-    $pdo = new PDO("mysql:dbname=$banco;host=$servidor;charset=utf8", $usuario, $senha);
-    $pdo->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
-    error_log("Conexão PDO estabelecida com sucesso."); // Adicione esta linha
+    $dsn = "mysql:host={$servername};dbname={$database};charset=utf8mb4";
+    $pdo = new PDO($dsn, $username, $password, [
+        PDO::ATTR_ERRMODE => PDO::ERRMODE_EXCEPTION,
+        PDO::ATTR_DEFAULT_FETCH_MODE => PDO::FETCH_ASSOC,
+    ]);
 } catch (PDOException $e) {
-    die("Erro ao conectar (PDO): " . $e->getMessage());
+    error_log('PDO database connection failed: ' . $e->getMessage());
+    http_response_code(500);
+    die('Database connection failed.');
 }
 ?>
