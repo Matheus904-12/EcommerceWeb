@@ -3,7 +3,11 @@
 header('Content-Type: text/plain');
 
 // Token da Jadlog
-$jadlog_token = 'eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJqYWRsb2dfdG9rZW4iLCJqdGkiOiIzNzgwNDAxODAwMDE1NiJ9.hTZMgwJhZMCbXQnwvlxLiU6tJGh0q7LRXEJtQtjYS8A';
+$jadlog_token = getenv('JADLOG_TOKEN');
+if (!$jadlog_token) {
+    http_response_code(500);
+    exit("Configure a variável de ambiente JADLOG_TOKEN antes de executar este teste.\\n");
+}
 
 // Dados de teste
 $cep_origem = '08690265';
